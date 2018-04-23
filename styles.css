@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box; 
+	font-size: 30px;
+}
+
+.stopwatch {
+	padding: 30px;
+	margin: 30px;
+}
+.controls {padding: 50px;}
+
+
+#stop {margin-left: 20px;}
+
+
+.content {
+	margin: 0 auto;
+	background: #c6e098;
+}
