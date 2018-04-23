@@ -1,17 +1,19 @@
 * {
-	box-sizing: border-box; 
-	font-size: 30px;
+  box-sizing: border-box; 
+  font-size: 30px;
 }
 
 .stopwatch {
 	padding: 30px;
-	margin: 30px;
+	margin: 70px;
 }
-.controls {padding: 50px;}
+.controls {
+	padding: 50px;
+}
 
-
-#stop {margin-left: 20px;}
-
+#stop, #reset {
+	margin-left: 10px;
+}
 
 .content {
 	margin: 0 auto;
